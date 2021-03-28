@@ -3,3 +3,13 @@ body{
     background:#333;
     color:#fff;
   }
+
+.icon
+{
+  color : black;
+}
+
+.icon:hover
+{
+  font-size:1.2rem;
+}
