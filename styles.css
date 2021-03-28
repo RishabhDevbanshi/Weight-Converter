@@ -1,15 +1,13 @@
-body{
-    margin-top:70px;
-    background:#333;
-    color:#fff;
-  }
-
-.icon
-{
-  color : black;
+body {
+  margin-top: 70px;
+  background: #333;
+  color: #fff;
 }
 
-.icon:hover
-{
-  font-size:1.2rem;
+.icon {
+  color: black;
+}
+
+.icon:hover {
+  font-size: 1.2rem;
 }
