@@ -6,7 +6,7 @@ A simple responsive web app which converts the entered weight in lbs to grams, k
 
 ## Webiste Link
 
-Click <a href="https://rishabhdevbanshi.github.io/Weight-Converter/">here</a> to view the hosted website.
+Click <a target="_blank" href="https://rishabhdevbanshi.github.io/Weight-Converter/">here</a> to view the hosted website.
 
 ## Technologies Used
 
